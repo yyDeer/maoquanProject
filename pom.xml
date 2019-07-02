@@ -6,10 +6,6 @@
   <packaging>pom</packaging>
   <dependencyManagement>
   	<dependencies>
-  		<dependency>
-  			<groupId>org.mybatis</groupId>
-  			<artifactId>mybatis</artifactId>
-  		</dependency>
   	</dependencies>
   </dependencyManagement>
 </project>
