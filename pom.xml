@@ -5,7 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <dependencyManagement>
-  	<dependencies>
-  	</dependencies>
   </dependencyManagement>
 </project>
